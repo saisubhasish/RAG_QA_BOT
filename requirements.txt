@@ -1,0 +1,8 @@
+bs4
+pypdf
+chromadb
+tiktoken
+faiss-cpu
+langchain
+python-dotenv
+langchain_community
